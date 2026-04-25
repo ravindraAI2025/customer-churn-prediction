@@ -5,15 +5,16 @@ This project predicts customer churn using machine learning to help businesses r
 
 ---
 
-## 📈 Output Visualizations
+![Output](Screenshot%202026-04-25%20161335.png)
 
+<br><br>
 
-(Screenshot 2026-04-25 161335.png)
+![Output](Screenshot%202026-04-25%20161356.png)
 
+<br><br>
 
-(Screenshot 2026-04-25 161356.png)
+![Output](Screenshot%202026-04-25%20161423.png)
 
+<br><br>
 
-(Screenshot 2026-04-25 161423.png)
-
-(Screenshot 2026-04-25 161442.png)
+![Output](Screenshot%202026-04-25%20161442.png)
