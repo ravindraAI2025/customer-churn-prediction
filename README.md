@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 ## 📊 Project Overview
-This project predicts customer churn using machine learning to help businesses reduce customer loss and improve retention strategies.
+“This project focuses on predicting customer churn using machine learning techniques on real-world Telco data. It involves data preprocessing, feature engineering, and building a classification model to identify customers at risk of leaving. The model was evaluated using performance metrics such as accuracy, precision, and recall. Key factors influencing churn were analyzed to generate actionable business insights. The solution helps organizations take proactive steps to improve customer retention and reduce revenue loss.”
 
 ---
 
